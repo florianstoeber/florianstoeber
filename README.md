@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working as a Kubernetes Engineer at Storm Reply in Germany -> <a href="https://stormreply.cloud">https://stormreply.cloud</a>
+- 🔭 I’m currently working as a Kubernetes Engineer at Liquid Reply in Germany -> <a href="https://liquidreply.net/">https://liquidreply.net/</a>
 - 🌱 I’m currently learning to achieve the Certified Kubernetes Admin exam.
 - 👯 I’m looking to collaborate on CNCF/Kubernetes related topics.
 - 💬 Ask me about anything you like :) 
