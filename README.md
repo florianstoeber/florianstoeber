@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working as a Kubernetes Engineer at Liquid Reply in Germany -> <a href="https://liquidreply.net/">https://liquidreply.net/</a>
-- 🌱 I’m currently learning to achieve the Certified Kubernetes Admin exam.
+- 🌱 I’m currently learning to achieve the Certified Kubernetes Security Specialist exam.
 - 👯 I’m looking to collaborate on CNCF/Kubernetes related topics.
 - 💬 Ask me about anything you like :) 
 - 💬 Read my lastest blogpost: https://liquidreply.net/an-introduction-to-loki
